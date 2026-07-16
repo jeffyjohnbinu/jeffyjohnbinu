@@ -1,16 +1,68 @@
-## Hi there 👋
+# Hi there 👋 I'm Jeffy John Binu
 
-<!--
-**jeffyjohnbinu/jeffyjohnbinu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 AI & Machine Learning Engineer
 
-Here are some ideas to get you started:
+I'm passionate about building AI-powered applications using Machine Learning, Deep Learning, Computer Vision, and Generative AI.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👨‍💻 About Me
+
+- 🎓 B.Tech in Artificial Intelligence & Data Science
+- 🤖 AI & Machine Learning Developer
+- 💻 Python Developer
+- 📊 Data Science Enthusiast
+- 🔍 Interested in Computer Vision & LLMs
+- 🌱 Currently learning advanced AI and MLOps
+
+---
+
+## 🛠 Tech Stack
+
+### Languages
+- Python
+- SQL
+- Java
+- HTML
+- CSS
+
+### AI & ML
+- Scikit-learn
+- TensorFlow
+- OpenCV
+- YOLOv8
+- Pandas
+- NumPy
+- Matplotlib
+
+### Tools
+- Git
+- GitHub
+- VS Code
+- Jupyter Notebook
+- Google Colab
+
+---
+
+## 🚀 Featured Projects
+
+### AI-Based Suspect Detection & Tracking System
+Face recognition and object tracking using YOLOv8 and OpenCV.
+
+### Customer Churn Prediction
+Machine Learning model to predict telecom customer churn.
+
+### Data Science & GenAI Projects
+Data preprocessing, visualization, ML models, and Generative AI applications.
+
+---
+
+## 📫 Contact
+
+Email: your-email@example.com
+
+LinkedIn:
+https://linkedin.com/in/your-profile
+
+Portfolio:
+Coming Soon
