@@ -30,13 +30,31 @@ I'm passionate about building AI-powered applications using Machine Learning, De
 
 ---
 
-## 🛠 Tech Stack
+## 🛠️ Tech Stack
+
+<p align="center">
 
 ### Languages
-- Python
-- SQL
-- HTML
-- CSS
+<img src="https://skillicons.dev/icons?i=python,java,js,html,css,mysql"/>
+
+### AI / Machine Learning
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv"/>
+
+### Frameworks
+<img src="https://skillicons.dev/icons?i=flask,fastapi"/>
+
+### Tools
+<img src="https://skillicons.dev/icons?i=git,github,vscode,anaconda,linux"/>
+
+### Libraries
+
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+
+</p>
 
 ### AI & ML
 - Scikit-learn
