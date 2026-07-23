@@ -84,17 +84,31 @@ I'm passionate about building AI-powered applications using Machine Learning, De
 </p>
 ## 🚀 Featured Projects
 
-### AI-Based Suspect Detection & Tracking System
-Face recognition and object tracking using YOLOv8 and OpenCV.
+### 🤖 AI OS Assistant (In Progress)
+An intelligent desktop assistant powered by LLMs that can automate system tasks, answer questions, launch applications, summarize files, and interact through voice and text.
 
-### Customer Churn Prediction
-Machine Learning model to predict telecom customer churn.
-
-### Data Science & GenAI Projects
-Data preprocessing, visualization, ML models, and Generative AI applications.
+**Tech Stack:** Python, Flask, Ollama/OpenAI, SQLite, SpeechRecognition
 
 ---
 
+### 👤 AI Suspect Detection & Tracking System
+A real-time face recognition system that detects and tracks suspects using Computer Vision and Deep Learning.
+
+**Tech Stack:** Python, OpenCV, YOLOv8, TensorFlow, Flask
+
+---
+
+### 📄 RAG Document Chatbot
+A Retrieval-Augmented Generation chatbot that allows users to chat with PDFs using semantic search.
+
+**Tech Stack:** LangChain, FAISS, Flask, Ollama/OpenAI
+
+---
+
+### 📊 Customer Churn Prediction
+Machine learning model for predicting customer churn using feature engineering and classification algorithms.
+
+**Tech Stack:** Python, Scikit-learn, Pandas, Matplotlib
 ## 📫 Contact
 
 Email: your-email@example.com
