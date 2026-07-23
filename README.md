@@ -22,7 +22,6 @@ I'm passionate about building AI-powered applications using Machine Learning, De
 ### Languages
 - Python
 - SQL
-- Java
 - HTML
 - CSS
 
